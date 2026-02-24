@@ -51,3 +51,4 @@ Format ouput : tampilkan struk pada terminal dengan format berikut
  kerjakan dalam bahasa c
 
  2.perbaharui kode nya untuk mendapatkan output sepeti gambar ini
+ 
